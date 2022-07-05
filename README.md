@@ -9,7 +9,7 @@
 <br />
 
 ## 2. 사용 기술
->HTML, CSS
+>HTML, CSS, BootStrap
 
 <br />
 
